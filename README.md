@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Course Selling Website](https://github.com/Ashishbhatt97/course-hub-Web-App)
 
-- - 🔭 Checkout my [Portfolio]([https://portfolio-ashish0197.vercel.app])
+- 🔭 Checkout my [Portfolio](https://portfolio-ashish0197.vercel.app/)
 
 - 🌱 I’m currently learning **Solidity , Web3.Js , Hardhat**
 
