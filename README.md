@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashishbhatt0197" target="blank"><img src="https://img.shields.io/twitter/follow/ashishbhatt0197?logo=twitter&style=for-the-badge" alt="ashishbhatt0197" /></a> </p>
 
-- 🔭 I’m currently working on [Supply Chain Management System]([https://github.com/Ashishbhatt97/course-hub-Web-App](https://github.com/Ashishbhatt97/Supply_Chain_MarketPlace_Dapp))
+- 🔭 I’m currently working on [Supply Chain Management System]([https://github.com/Ashishbhatt97/course-hub-Web-App])(https://github.com/Ashishbhatt97/Supply_Chain_MarketPlace_Dapp))
 
 - 🔭 Checkout my [Portfolio](https://portfolio-ashish0197.vercel.app/)
 
